@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scikit-learn>=1.3
+matplotlib
+datasets
+requests
+pillow
+tqdm
+joblib
+torch
+gradio
